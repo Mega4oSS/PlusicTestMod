@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plusicapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aocpapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
